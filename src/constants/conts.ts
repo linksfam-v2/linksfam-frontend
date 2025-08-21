@@ -1,0 +1,4 @@
+export const USER_TYPE = {
+  COMPAMY: 'COMPANY',
+  INFLUENCER: 'INFLUENCER',
+}
